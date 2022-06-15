@@ -135,7 +135,6 @@
     "dist",
     "src",
     "config",
-    "scripts",
-    "package-lock.json"
+    "scripts"
   ]
 }
