@@ -130,5 +130,11 @@
     "jest-resolve": "26.6.0",
     "jest-watch-typeahead": "0.6.1",
     "microbundle": "^0.15"
-  }
+  },
+  "files": [
+    "dist",
+    "src",
+    "config",
+    "scripts"
+  ]
 }
